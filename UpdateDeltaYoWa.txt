@@ -1,5 +1,5 @@
 {
- "version":"1.0",   
+ "version":"1.1",   
   "force_update":"false",    
   "title":"DELTA AF v5.3.0 ESTÁVEL 🛠",
   "description":" Novo local de temas: Download/GoThemes\n Novo: Indicador de guia personalizado\n Novo: Estilo de gaveta",
