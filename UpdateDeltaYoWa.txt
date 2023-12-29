@@ -1,7 +1,7 @@
 {
  "version":"1.0",   
   "force_update":"false",    
-  "title":"Base Atualizada para 2.23.24.12 🛠",
-  "description":" Novo: Adicionado canal de áudios\n Novo: Adicionado canal de aplicativos\n Corrigido: Ocultar segundo tick",
+  "title":"DELTA AF v5.3.0 ESTÁVEL 🛠",
+  "description":" Novo: Indicador de guia personalizado\n Novo: Local de temas: Download/GoThemes\n Novo: Estilo de gaveta",
   "download":"https://telegra.ph/WhatsApp-Mini-09-15"
 }
